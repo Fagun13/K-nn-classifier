@@ -1,4 +1,4 @@
-# K-means-classifier
+# K-means-clustering algorithm
 
 Here, Iris data set is given as input. There are 3 types of flowers in this data set. They are as follow Iris-setosa, Iris-virginica, Iris-versicolor. So, now task is to divide the given data set into groups. You can divide dataset into 2,3,4, 5… groups. There are 4 features based on which you can group dataset. Features are Sepal length, sepal width, petal length, petal width. 
 K – means 
